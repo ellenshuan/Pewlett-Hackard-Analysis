@@ -15,11 +15,14 @@ The purpose of this Pewlett Hackard analysis is to help the company find the num
 
 ## Images
 
-![](./Resources/retiring_titles.png)
-
+Image of Unique Titles
 ![](./Resources/unique_titles.png)
 
+Image of mentorship eligbility 
 ![](./Resources/mentorship_eligbility.png)
+
+Image of retiring titles 
+![](./Resources/retiring_titles.png)
 
 
 ## Summary 
